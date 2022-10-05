@@ -1,0 +1,8 @@
+cmd 창에서 
+
+git config --global user.name noelshark
+
+git config --global user.email noelshark@gmail.com
+
+git clone https://github.com/Jea-Kwan/2022Project.git
+
